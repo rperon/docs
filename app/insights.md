@@ -232,7 +232,7 @@ or JSON variable in a place that requires Datetime data.
 - **Variable Key** — Sets your variable. Use this key to access the variable in other Insights panels.
 - **Collection** — The collection to get the item IDs from.
 - **Multiple** — Allow selection of multiple items when enabled.
-- **Limit** — Limits the number of selectable items.
+- **Limit** — Limits the number of items that can be selected.
 - **Display Template** — Defines how the items will be represented. Allows use of Field Item values as well as custom
   text.
 - **Filter** — Sets filters to allow selection of items that meet some criteria.
