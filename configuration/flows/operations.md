@@ -107,7 +107,8 @@ from a previous step in Flows.
 
 - **To** — Set the email addresses. Hit `↵` to save the email. Click an email to remove it.
 - **Subject** — Set the subject line.
-- **Body** — Use a WYSIWYG editor to create the email body.
+- **Type** — Choose between Markdown or WYSIWYG editor for the email body.
+- **Body** — Set the email body.
 
 :::tip
 
