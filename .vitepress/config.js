@@ -536,8 +536,8 @@ function sidebar() {
 					text: 'Modules',
 				},
 				{
-					link: "/extensions/operations",
-					text: "Operations",
+					link: '/extensions/operations',
+					text: 'Operations',
 				},
 				{
 					// type: 'page',
